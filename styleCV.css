@@ -1,0 +1,43 @@
+header{
+    background-color: #F16529;
+    color: white;
+    padding: 5px;
+    
+}
+
+#nombre{
+    width: 50%;
+    display: inline-block;
+}
+
+nav{
+    width: 45%;
+    display: inline-block;
+}
+
+.icono{
+    size: 20px 20px;
+}
+
+body{
+    background-color: #ebebeb;
+}
+
+
+
+.links{
+    color: white;
+    text-decoration: none;
+    padding: 2px;
+}
+
+.subtitulo{
+    text-align: center;
+    background-color:#9e9e9e;
+}
+
+.programas{
+    width: 35%;
+    display: inline-block;
+    padding-left: 150px;
+}
