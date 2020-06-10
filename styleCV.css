@@ -2,22 +2,27 @@ header{
     background-color: #F16529;
     color: white;
     padding: 5px;
-    
+    display: flex;
+    width: 100%;
 }
 
 #nombre{
     width: 50%;
-    display: inline-block;
+    margin: 0px;
 }
 
 nav{
     width: 45%;
-    display: inline-block;
-}
+    align-content: center;
+    padding-top: 5px;
+}   
 
 .icono{
-    size: 20px 20px;
-}
+    width: 20px;
+    height: 20px;
+    align-content: center;
+    padding-top: 3px;
+}   
 
 body{
     background-color: #ebebeb;
@@ -29,6 +34,7 @@ body{
     color: white;
     text-decoration: none;
     padding: 2px;
+    text-align: center;
 }
 
 .subtitulo{
